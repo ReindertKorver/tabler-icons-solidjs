@@ -1,0 +1,23 @@
+
+
+export default function EyeglassTwo({
+    size = 24,
+    color = 'currentColor',
+    ...props
+}){
+    return (
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-eyeglass-2" width={size} height={size} viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" {...props} stroke-linecap="round" stroke-linejoin="round">
+  <desc>Download more icon variants from https://tabler-icons.io/i/eyeglass-2</desc>
+  <path stroke="none" d="M0 0h24v24H0z" fill="none" {...props}/>
+  <path d="M8 4h-2l-3 10v2.5" />
+  <path d="M16 4h2l3 10v2.5" />
+  <line x1="10" y1="16" x2="14" y2="16" />
+  <circle cx="17.5" cy="16.5" r="3.5" />
+  <circle cx="6.5" cy="16.5" r="3.5" />
+</svg>
+
+
+
+    );
+}
+
