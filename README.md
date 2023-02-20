@@ -1,3 +1,4 @@
+# Will not be updated anymore please use the [official package](https://github.com/tabler/tabler-icons/tree/master/packages/icons-solidjs) 
 # tabler-icons-solidjs
  Tabler icons for solidjs
 # Install
